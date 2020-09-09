@@ -15,5 +15,5 @@ then
     npm install
     npm run dev
 else
-    composer create-project --prefer-dist laravel/laravel docker-laravel dev-develop
+    composer create-project --prefer-dist laravel/laravel docker-laravel
 fi
